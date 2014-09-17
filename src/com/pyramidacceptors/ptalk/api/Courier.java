@@ -155,8 +155,7 @@ final class Courier extends Thread {
                 _comOkay = false;
             }
         }
-        
-    }   
+    }
     
     /**
      * Sleep for d milliseconds<br>
